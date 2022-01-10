@@ -23,13 +23,13 @@ const Header: NextPage = () => {
       </nav>
 
       <div id='redes-sociais'>
-        <a href="">
+        <a href="https://www.facebook.com/">
           <FaFacebook />
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/">
           <FaInstagram />
         </a>
-        <a href="">
+        <a href="https://twitter.com/">
           <FaTwitter />
         </a>
       </div>
