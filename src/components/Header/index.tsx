@@ -1,10 +1,11 @@
 import React from 'react';
 import Image from 'next/image';
 import type { NextPage } from 'next'
-import ReabiliteHeaderLogo from '../../../public/images/header-logo.svg'
+
+import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa';
 
 import { Container } from './styles';
-import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa';
+import ReabiliteHeaderLogo from '../../../public/images/header-logo.svg'
 
 const Header: NextPage = () => {
   return (
