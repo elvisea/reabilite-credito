@@ -27,6 +27,7 @@ export const Container = styled.header`
 
     a {
       margin-right: 20px;
+      font-size: 1.6rem;
 
       &:last-child {
         margin-right: 0;
@@ -53,7 +54,7 @@ export const Container = styled.header`
      
       svg {
         color: #00AEEF;
-        font-size: 18px;
+        font-size: 1.8rem;
 
         &:hover {
           color: #FC7900;
@@ -67,7 +68,7 @@ export const Container = styled.header`
     max-width: 220px;
     width: 100%;
     border: 2px solid #2E3192;
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: 700;
     border-radius: 20px;
     background: #fff;
